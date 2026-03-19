@@ -1,0 +1,7 @@
+{
+  "name": "SecureGuard Alex",
+  "description": "Universal Voice & Chat Concierge for insurance guidance, featuring real-time AI assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
